@@ -1,0 +1,17 @@
+section#userForms div {
+    width:400px;
+    background-color:#AFBBA8;
+    box-shadow: 5px 5px 3px 3px #888;
+    margin: 0 20px 10px 0;
+    float:left;
+}
+section#userForms div input{
+    width:390px;
+}
+
+
+#content_wrapper {
+    width:1000px;
+    margin:auto;
+
+}
